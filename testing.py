@@ -1,3 +1,3 @@
 print('testing git')
 print('news messeg')
-testtt
+print("news")
